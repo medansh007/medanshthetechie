@@ -11,7 +11,7 @@
 	<title>Uncategorized &#8211; Medansh The Techie</title>
 	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Thu, 15 Apr 2021 12:52:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/04/favicon-32x32-1.png</url>
+	<title>Uncategorized &#8211; Medansh The Techie</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>/2021/04/15/hello-world/</link>
